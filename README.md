@@ -36,4 +36,4 @@ Through our analysis, we discovered the following insights:
 
 ## Usage
 
-Feel free to explore the `exploration.ipynb` notebook to delve into the code, visualizations, and detailed analysis. You can also use this repository as a reference for conducting similar investigations or as a starting point for your own data exploration projects.
+Feel free to explore the `Analysis_nyc_high_school.ipynb` notebook to delve into the code, visualizations, and detailed analysis. You can also use this repository as a reference for conducting similar investigations or as a starting point for your own data exploration projects.
